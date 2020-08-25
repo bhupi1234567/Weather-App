@@ -1,0 +1,46 @@
+body{
+    color: #333333;
+    font-family: Arial;
+    
+    
+}
+
+.nav {
+    list-style: none;
+    background-color: #333333;
+    
+}
+
+#frm{
+    margin-left: 20%;
+}
+#search{
+    border: 1px solid #333333;
+    border-radius: 25px;
+    margin-top: 5px;
+    text-align: center;
+}
+
+
+form{
+    background-color: aliceblue;
+}
+form button{
+    margin-top: 5px;
+}
+@media only screen and (max-width: 768px) {
+    /* For mobile phones: */
+    #frm {
+      width: 90%;
+      margin-left: 2%;
+    }
+}
+
+.wdata{
+    height: 100px;
+    border: 1px solid #333333;
+    text-align: center;
+}
+#message-1{
+    text-align: center;
+}
